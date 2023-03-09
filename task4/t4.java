@@ -1,7 +1,6 @@
 package TASKS.task4;
 
 import java.util.logging.*;
-import java.io.IOException;
 import java.util.Scanner;
 
 // К калькулятору из предыдущего дз добавить логирование.  
